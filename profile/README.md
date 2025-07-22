@@ -42,7 +42,8 @@
 - 구조화된 정보 추출 → 검색용 문장 생성 → 유사 장소 검색 → 최적 코스 구성
 
 
-<img width="2529" height="1581" alt="image" src="https://github.com/user-attachments/assets/13b9051f-5817-4252-a3e0-7313ffe6689e" />
+<img width="2590" height="1256" alt="image (1)" src="https://github.com/user-attachments/assets/f06231c0-0752-4423-811d-13af3a882582" />
+
 
 
 ---
