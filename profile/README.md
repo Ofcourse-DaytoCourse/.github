@@ -45,8 +45,6 @@
 ![프레임 3](https://github.com/user-attachments/assets/96c13962-f9b4-437b-9f40-24203d788ccb)
 
 
-
-
 ---
 
 ## 🚀 프로젝트 진행 상황
@@ -54,8 +52,16 @@
 - [x] 시스템 설계 및 데이터 수집 완료
 - [x] 서비스별 단위 구현 완료
 - [x] 프론트/백 통합 완료
-- [ ] 서비스 최종 테스트 진행 중
-- [ ] 실시간 알림, BM 구축 진행 중
+- [x] 서비스 최종 테스트 완료
+- [x]  BM 구축 완료
+
 
 ---
+
+## 📖 [Wiki](https://github.com/Ofcourse-DaytoCourse/.github/wiki/1.-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EC%9A%94)
+
+- [1. 프로젝트 개요](https://github.com/Ofcourse-DaytoCourse/.github/wiki/1.-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EC%9A%94)
+- [2. 시스템 구조](https://github.com/Ofcourse-DaytoCourse/.github/wiki/2.-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%A1%B0)
+- [3. 기술 스택](https://github.com/Ofcourse-DaytoCourse/.github/wiki/3.-%EA%B8%B0%EC%88%A0-%EC%8A%A4%ED%83%9D)
+
 
